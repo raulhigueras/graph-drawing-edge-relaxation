@@ -1,0 +1,8 @@
+{
+    "dataset_src": "data/processed/graph_ds-skewed",
+    "k_relax": [0.025, 0.05, 0.1, 0.2, 0.3],
+    "k_weight": [0.0, 0.05, 0.1, 0.5, 0.9],
+    "patience": 20,
+    "max_it": 100,
+    "save_each": 20
+}
